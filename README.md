@@ -73,66 +73,66 @@ stock news and captial flow data from Sina Finance website, the process of the w
 	* Testing set: From 2017-11-01 to 2018-01-12, A shares stocks news data, captial flow data, PE and PB data from Sina Finance Website. 
 	The stock includes all A-shares of the mining, pharmaceutical industries, 
 	which are subject to the regulation of the China Securities Regulatory Commission.
-	<br>
-	<img src="https://github.com/ddddwy/StockForecast/raw/master/img/mine_results.png" width=45%>
-	<img src="https://github.com/ddddwy/StockForecast/raw/master/img/pharmaceutical_results.png" width=45%>
-	<br>
-	<table style='border:1px solid #e8e8e8;'>
-		<thead>
-			<tr>
-				<th>股价涨跌幅 <br>Stock Price Changeratio</th>
-				<th>采矿业 <br>Mining industry</th>
-				<th>医药制造业 <br>Pharmaceutical industry</th>
-			</tr>
-		</thead>
-		<tbody>
-			<tr>
-				<td>1%</td>
-				<td>73.2%</td>
-				<td>71.82%</td>
-			</tr>
-			<tr>
-				<td>2%</td>
-				<td>71.74%</td>
-				<td>76.81%</td>
-			</tr>
-			<tr>
-				<td>3%</td>
-				<td>75.22%</td>
-				<td>76.94%</td>
-			</tr>
-			<tr>
-				<td>4%</td>
-				<td>64.29%</td>
-				<td>64%</td>
-			</tr>
-			<tr>
-				<td>5%</td>
-				<td>77%</td>
-				<td>71%</td>
-			</tr>
-			<tr>
-				<td>6%</td>
-				<td>74%</td>
-				<td>76%</td>
-			</tr>
-			<tr>
-				<td>7%</td>
-				<td>65%</td>
-				<td>60%</td>
-			</tr>
-			<tr>
-				<td>8%</td>
-				<td>70%</td>
-				<td>60%</td>
-			</tr>
-			<tr>
-				<td>9%</td>
-				<td>70%</td>
-				<td>50%</td>
-			</tr>
-		</tbody>
-	</table>
+		<br>
+		<img src="https://github.com/ddddwy/StockForecast/raw/master/img/mine_results.png" width=45%>
+		<img src="https://github.com/ddddwy/StockForecast/raw/master/img/pharmaceutical_results.png" width=45%>
+		<br>
+		<table style='border:1px solid #e8e8e8;'>
+			<thead>
+				<tr>
+					<th>股价涨跌幅 <br>Stock Price Changeratio</th>
+					<th>采矿业 <br>Mining industry</th>
+					<th>医药制造业 <br>Pharmaceutical industry</th>
+				</tr>
+			</thead>
+			<tbody>
+				<tr>
+					<td>1%</td>
+					<td>73.2%</td>
+					<td>71.82%</td>
+				</tr>
+				<tr>
+					<td>2%</td>
+					<td>71.74%</td>
+					<td>76.81%</td>
+				</tr>
+				<tr>
+					<td>3%</td>
+					<td>75.22%</td>
+					<td>76.94%</td>
+				</tr>
+				<tr>
+					<td>4%</td>
+					<td>64.29%</td>
+					<td>64%</td>
+				</tr>
+				<tr>
+					<td>5%</td>
+					<td>77%</td>
+					<td>71%</td>
+				</tr>
+				<tr>
+					<td>6%</td>
+					<td>74%</td>
+					<td>76%</td>
+				</tr>
+				<tr>
+					<td>7%</td>
+					<td>65%</td>
+					<td>60%</td>
+				</tr>
+				<tr>
+					<td>8%</td>
+					<td>70%</td>
+					<td>60%</td>
+				</tr>
+				<tr>
+					<td>9%</td>
+					<td>70%</td>
+					<td>50%</td>
+				</tr>
+			</tbody>
+		</table>
 	
 * Reference:
 	* [WebCollector](http://datahref.com/archives/category/webcollector%E6%95%99%E7%A8%8B)
