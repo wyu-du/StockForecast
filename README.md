@@ -94,11 +94,11 @@ stock news and captial flow data from Sina Finance website, the process of the w
 				<tr>
 					<td>2%</td>
 					<td>71.74%</td>
-					<td>76.81%</td>
+					<td>77.36%</td>
 				</tr>
 				<tr>
 					<td>3%</td>
-					<td>75.22%</td>
+					<td>76.22%</td>
 					<td>76.94%</td>
 				</tr>
 				<tr>
